@@ -130,7 +130,7 @@ Run locally:
 ```bash
 streamlit run src/app.py
 ```
-
+Sample video of Project is shared below:
 
 
 
