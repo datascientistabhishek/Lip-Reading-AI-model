@@ -131,6 +131,7 @@ Run locally:
 streamlit run src/app.py
 ```
 Sample video of Project is shared below:
+https://github.com/datascientistabhishek/Lip-Reading-AI-model/blob/main/%F0%9F%91%84%20AI%20Lip%20Reader.mp4
 
 
 
