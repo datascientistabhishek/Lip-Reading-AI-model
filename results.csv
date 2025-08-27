@@ -1,0 +1,32 @@
+Folder,Prediction,Actual,CER,WER
+s20/sgbu1p,set green by j one please,set green by u one please,0.04,0.16666666666666666
+s20/brak5p,bin red in l five please,bin red at k five please,0.125,0.3333333333333333
+s17/lgwe6n,lay green with e six now,lay green with e six now,0.0,0.0
+s18/sril7n,set red in n seven now,set red in l seven now,0.045454545454545456,0.16666666666666666
+s13/srbt4n,set red by z four now,set red by t four now,0.047619047619047616,0.16666666666666666
+s12/lbio9n,lay blue in o nine now,lay blue in o nine now,0.0,0.0
+s11/brbf3s,bin red by h three soon,bin red by f three soon,0.043478260869565216,0.16666666666666666
+s10/swik9a,set white in k nine again,set white in k nine again,0.0,0.0
+s10/swie5a,set white it z five again,set white in e five again,0.08,0.3333333333333333
+s10/swwf6p,set white with f six please,set white with f six please,0.0,0.0
+s4/pwbkza,place white by n zero again,place white by k zero again,0.037037037037037035,0.16666666666666666
+s4/pwic7p,place white in z seven please,place white in c seven please,0.034482758620689655,0.16666666666666666
+s6/pgad6a,place green at g six again,place green at d six again,0.038461538461538464,0.16666666666666666
+s7/lwwz2n,lay white with c two now,lay white with z two now,0.041666666666666664,0.16666666666666666
+s3/lbbq6n,lay blue by q six now,lay blue by q six now,0.0,0.0
+s1/sbik8s,set blue in k eight soon,set blue in k eight soon,0.0,0.0
+s2/bbal7p,bin blue in l seven please,bin blue at l seven please,0.07692307692307693,0.16666666666666666
+s9/praczp,place red it g zero please,place red at c zero please,0.07692307692307693,0.3333333333333333
+s14/prin8s,place red in i eight soon,place red in n eight soon,0.04,0.16666666666666666
+s14/sbil6s,set blue in l six soon,set blue in l six soon,0.0,0.0
+s14/sgabzs,set green an p zero soon,set green at b zero soon,0.08333333333333333,0.3333333333333333
+s14/sgbo2s,set green by o two soon,set green by o two soon,0.0,0.0
+s15/pgau9s,place green it q nine soon,place green at sp u nine soon,0.1724137931034483,0.42857142857142855
+s15/prbn7s,place red by s seven soon,place red sp by n seven soon,0.14285714285714285,0.2857142857142857
+s15/sbik8p,set blue in k eight please,set blue in k eight please,0.0,0.0
+s16/bbax9n,bin blue at s sine now,bin blue at x nine now,0.09090909090909091,0.3333333333333333
+s18/lwij3p,lay white in j three please,lay white in j three please,0.0,0.0
+s19/pgaczn,place green at z zero now,place green at c zero now,0.04,0.16666666666666666
+s2/pgix5n,place green an k five now,place green in x five now,0.08,0.3333333333333333
+s2/swab5n,set white in b five now,set white at b five now,0.08695652173913043,0.16666666666666666
+s11/sgab2n,set green at p two now,set green at b two now,0.045454545454545456,0.16666666666666666
